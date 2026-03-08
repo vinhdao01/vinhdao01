@@ -42,6 +42,6 @@ I care about building solutions that are not only accurate, but interpretable an
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
-- 📧 Email: *(add your email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/vinh-dao-419579390/
+- 📧 Email: vxdao01@gmail.com
 
